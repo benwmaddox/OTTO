@@ -1,0 +1,6 @@
+*.suo
+*.user
+*.VisualState.xml
+bin
+obj
+_ReSharper*
