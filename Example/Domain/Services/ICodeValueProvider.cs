@@ -1,4 +1,4 @@
-﻿namespace Mapper.Example.Domain.Services
+﻿namespace OTTO.Example.Domain.Services
 {
 	public interface ICodeValueProvider
 	{

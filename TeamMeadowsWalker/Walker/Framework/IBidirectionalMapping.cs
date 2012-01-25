@@ -1,4 +1,4 @@
-﻿namespace Mapper.Teams.Walker.Framework
+﻿namespace OTTO.Teams.Walker.Framework
 {
 	public interface IBidirectionalMapping<TSource, TTarget> : IMapping<TSource, TTarget>
 	// TODO  It wouldn't let me write ": IMapping<TSource, TTarget>, IMapping<TTarget, TSource>"

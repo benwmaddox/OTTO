@@ -8,8 +8,8 @@
     <ProjectGuid>{4EFF361C-C3BC-4DC3-9CE3-9C54EADDBA47}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mapper.Example</RootNamespace>
-    <AssemblyName>Mapper.Example</AssemblyName>
+    <RootNamespace>OTTO.Example</RootNamespace>
+    <AssemblyName>OTTO.Example</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

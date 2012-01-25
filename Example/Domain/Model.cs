@@ -1,4 +1,4 @@
-﻿namespace Mapper.Example.Domain
+﻿namespace OTTO.Example.Domain
 {
 	public class Model
 	{

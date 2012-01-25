@@ -1,6 +1,6 @@
-﻿using Mapper.Teams.Walker.Framework.Builders;
+﻿using OTTO.Teams.Walker.Framework.Builders;
 
-namespace Mapper.Teams.Walker.Framework
+namespace OTTO.Teams.Walker.Framework
 {
 	public interface IMappingFactory
 	{

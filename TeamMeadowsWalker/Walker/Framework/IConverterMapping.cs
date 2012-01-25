@@ -1,4 +1,4 @@
-﻿namespace Mapper.Teams.Walker.Framework
+﻿namespace OTTO.Teams.Walker.Framework
 {
 	public interface IConverterMapping<TSource, TTarget>
 	{

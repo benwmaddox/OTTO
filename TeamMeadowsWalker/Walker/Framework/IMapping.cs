@@ -1,6 +1,6 @@
-﻿using Mapper.Teams.Walker.Framework.Syntax;
+﻿using OTTO.Teams.Walker.Framework.Syntax;
 
-namespace Mapper.Teams.Walker.Framework
+namespace OTTO.Teams.Walker.Framework
 {
 	public interface IMapping<TSource, TTarget>
 	{

@@ -1,4 +1,4 @@
-﻿namespace Mapper.Teams.Walker.Framework.Builders
+﻿namespace OTTO.Teams.Walker.Framework.Builders
 {
 	public interface IBidirectionalMappingBuilder<TFirst, TSecond>
 	{

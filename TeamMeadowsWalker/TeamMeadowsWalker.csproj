@@ -8,8 +8,8 @@
     <ProjectGuid>{85409499-3A81-4784-B6CC-2A548A702B62}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Mapper.Teams</RootNamespace>
-    <AssemblyName>Mapper.Teams.MeadowsWalker</AssemblyName>
+    <RootNamespace>OTTO.Teams</RootNamespace>
+    <AssemblyName>OTTO.Teams.MeadowsWalker</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

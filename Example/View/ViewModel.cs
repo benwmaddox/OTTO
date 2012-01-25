@@ -1,4 +1,4 @@
-﻿namespace Mapper.Example.View
+﻿namespace OTTO.Example.View
 {
 	public class ViewModel
 	{

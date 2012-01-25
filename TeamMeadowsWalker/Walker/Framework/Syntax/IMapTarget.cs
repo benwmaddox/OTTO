@@ -1,4 +1,4 @@
-﻿namespace Mapper.Teams.Walker.Framework.Syntax
+﻿namespace OTTO.Teams.Walker.Framework.Syntax
 {
 	public interface IMapTarget<TTarget>
 	{

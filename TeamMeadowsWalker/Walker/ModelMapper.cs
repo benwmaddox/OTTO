@@ -1,8 +1,8 @@
-﻿using Mapper.Example.Domain;
-using Mapper.Example.View;
-using Mapper.Teams.Walker.Framework;
+﻿using OTTO.Example.Domain;
+using OTTO.Example.View;
+using OTTO.Teams.Walker.Framework;
 
-namespace Mapper.Teams.Walker
+namespace OTTO.Teams.Walker
 {
 	public interface IModelMapper
 	{
